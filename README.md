@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📫 How to reach me: [https://marudhupandiyang.in](https://marudhupandiyang.in)
+
 <!--
 **marudhupandiyang/marudhupandiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
